@@ -123,6 +123,8 @@ public class Ex1 {
     }
 
 
+
+
     private static int baseFromString(String baseStr) {// convert a string to a base
         if (baseStr == null || baseStr.isEmpty()) {
             return -1;
