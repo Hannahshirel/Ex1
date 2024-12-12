@@ -94,6 +94,7 @@ public class Ex1 {
         return number2Int(n1) == number2Int(n2); // compare their numeric values
     }
 
+
     /**
      * Finds the index of the largest number in an array.
      * @param arr an array of numbers as Strings
