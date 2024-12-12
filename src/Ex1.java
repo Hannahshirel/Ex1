@@ -89,7 +89,8 @@ public class Ex1 {
      */
     public static boolean equals(String n1, String n2) {
         if (n1 == null || n2 == null || !isNumber(n1) || !isNumber(n2)) {
-            return false;
+            return false;git branch
+
         }
         return number2Int(n1) == number2Int(n2); // compare their numeric values
     }
