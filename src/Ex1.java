@@ -97,6 +97,7 @@ public class Ex1 {
 
 
 
+
     /**
      * Finds the index of the largest number in an array.
      * @param arr an array of numbers as Strings
